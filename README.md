@@ -2,7 +2,7 @@
 
 I plan to implement an application with a user interface complying with the latest Material Design Guidelines by Google 
 
-We have decided to use the following components to develop this application:
+I have decided to use the following components to develop this application:
 * Kotlin
 * RxJava
 * LiveData
